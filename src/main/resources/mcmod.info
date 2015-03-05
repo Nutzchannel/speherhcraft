@@ -3,7 +3,7 @@
   "modid": "speherhcraft",
   "name": "Speherhcraft",
   "description": "A mod with things in it.",
-  "version": "${version}",
+  "version": "0.1a",
   "mcversion": "${mcversion}",
   "url": "https://github.com/Nutzchannel/speherhcraft",
   "updateUrl": "",
