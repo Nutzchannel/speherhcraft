@@ -1,0 +1,12 @@
+package com.nutz.speherhcraft.block;
+//package|import
+import net.minecraft.block.Block
+import net.minecraft.block.material.Material;
+//import|class
+public class genericBlock extends Block
+{
+	public genericBlock (Material material)
+	{
+		super(material);
+	}
+}
