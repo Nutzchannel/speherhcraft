@@ -23,7 +23,7 @@ Also, feel free to review/use modpacks.
 
 **DO NOT MIRROR**
 
-I'm looking at you, _n_minecraft
+I'm looking at you, [THESE SITES](https://github.com/VictiniX888/Illegal-Mod-Sites/blob/master/SITES.md) {do not visit any listed sites!!}
 
 ### asterisks
 
