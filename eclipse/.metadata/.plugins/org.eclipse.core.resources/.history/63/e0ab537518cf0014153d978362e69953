@@ -1,0 +1,16 @@
+[
+{
+  "modid": "speherhcraft",
+  "name": "Speherhcraft",
+  "description": "A mod with things in it.",
+  "version": "0.1a",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Nutzchannel/speherhcraft",
+  "updateUrl": "",
+  "authorList": ["Nutzchannel"],
+  "credits": "Lots of tutorials...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

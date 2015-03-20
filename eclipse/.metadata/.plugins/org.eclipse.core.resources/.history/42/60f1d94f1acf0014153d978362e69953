@@ -1,0 +1,27 @@
+package com.nutz.speherhcraft;
+
+import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.fml.common.Mod.EventHandler;
+
+@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION)
+public class SpeherhMod{
+	
+	@EventHandler
+	public void preInit(FMLPreInitiationEvent event)
+	{
+		
+	}
+	
+	@EventHandler
+	public void init(FMLInitializationEvent event)
+	{
+		
+	}
+	
+	@EventHandler
+	public void postInit(FMLPostInitializationEvent event)
+	{
+		
+	}
+	
+}
