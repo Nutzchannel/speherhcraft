@@ -14,7 +14,8 @@ This mod is about anything you can code. Make it rain pies with a command? Sure!
 
 #### Users
 Unfortunately, there is no up-and-ready, stable version of speherhcraft yet.
-_(that is, unless you want to extract it. which i wouldn't)
+
+_(that is, unless you want to extract it. which i wouldn't)_
 
 ### License
 We use the MIT license.
