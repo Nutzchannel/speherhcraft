@@ -1,0 +1,9 @@
+package com.nutz.speherhcraft;
+
+public class Reference {
+	public static final String MOD_ID = "speherhcraft";
+	public static final String MOD_NAME = "Le Speherhcraft Mod";
+	public static final String VERSION = "0.1a";
+	public static final String CLIENT_PROXY_CLASS = "com.nutz.speherhcraft.proxy.ClientProxy";
+	public static final String SERVER_PROXY_CLASS = "com.nutz.speherhcraft.proxy.CommonProxy";
+}

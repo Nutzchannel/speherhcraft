@@ -1,0 +1,5 @@
+package com.nutz.speherhcraft.proxy;
+
+public class ClientProxy extends CommonProxy {
+
+}

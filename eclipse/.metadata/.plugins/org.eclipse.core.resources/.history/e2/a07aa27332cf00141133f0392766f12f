@@ -1,0 +1,28 @@
+package com.nutz.speherhcraft.init;
+
+import net.minecraft.item.Item;
+import net.minecraftforge.fml.common.registry.GameRegistry;
+
+public class SpeherhItems {
+	public static Item hashtag;
+	
+	public static void init()
+	{
+		hashtag = new Item().setUnlocalizedName("hashtag");
+	}
+	
+	public static void register()
+	{
+		GameRegistry.registerItem(hashtag, hashtag.getUnlocalizedName().substring(5));
+	}
+	
+	public static void registerRenders()
+	{
+		
+	}
+	
+	public static void registerRender()
+	{
+		
+	}
+}
